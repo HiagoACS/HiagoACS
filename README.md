@@ -46,6 +46,7 @@ Currently, I'm studying **C#**, but I have knowledge in the *Data Engineering* f
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-100000?style=for-the-badge&logo=amazon&logoColor=white&labelColor=232F3E&color=FF9900)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## <img src="https://github.com/user-attachments/assets/39549c1a-825e-40b0-bc68-03174c268913" width="35" alt="Contact"> Contact <img src="https://github.com/user-attachments/assets/39549c1a-825e-40b0-bc68-03174c268913" width="35" alt="Contact">
 
